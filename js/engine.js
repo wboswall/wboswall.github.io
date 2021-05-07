@@ -51,3 +51,5 @@ x--;
 x++;
 var pi, person, answer; pi=3.14; person="John Doe"; answer='Yes I am!';
 var carName; carName="Volvo"; document.getElementByID("demo".innerHTML =carName;
+var x=5+2=3;
+var $myString; $myString="String";
